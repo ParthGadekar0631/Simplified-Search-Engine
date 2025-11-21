@@ -28,10 +28,10 @@ Found 6 matching documents:
    URL: https://www.darkreading.com/cloud-security/cisa-alleged-oracle-cloud-breach
 4. multiple-group-exploiting-ntlm-flaw.html (Relevance score: 5)
    URL: https://www.darkreading.com/cyberattacks-data-breaches/multiple-group-exploiting-ntlm-flaw
-5. cve-program-cuts-cyber-sector.html (Relevance score: 4)
-   URL: https://www.darkreading.com/vulnerabilities-threats/cve-program-cuts-cyber-sector
-6. trump-chris-krebs-resigns-sentinelone.html (Relevance score: 4)
+5. trump-chris-krebs-resigns-sentinelone.html (Relevance score: 4)
    URL: https://www.darkreading.com/cybersecurity-operations/trump-chris-krebs-resigns-sentinelone
+6. cve-program-cuts-cyber-sector.html (Relevance score: 4)
+   URL: https://www.darkreading.com/vulnerabilities-threats/cve-program-cuts-cyber-sector
 --------------------------------------------------
 
 ============================================================
