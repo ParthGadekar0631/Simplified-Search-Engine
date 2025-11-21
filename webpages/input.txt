@@ -1,0 +1,6 @@
+cisa-alleged-oracle-cloud-breach.html https://www.darkreading.com/cloud-security/cisa-alleged-oracle-cloud-breach
+apple-zero-days-sophisticated-attacks.html https://www.darkreading.com/vulnerabilities-threats/apple-zero-days-sophisticated-attacks
+multiple-group-exploiting-ntlm-flaw.html https://www.darkreading.com/cyberattacks-data-breaches/multiple-group-exploiting-ntlm-flaw
+cve-program-cuts-cyber-sector.html https://www.darkreading.com/vulnerabilities-threats/cve-program-cuts-cyber-sector
+trump-chris-krebs-resigns-sentinelone.html https://www.darkreading.com/cybersecurity-operations/trump-chris-krebs-resigns-sentinelone
+android-pre-downloaded-malware-crypto-wallets.html https://www.darkreading.com/threat-intelligence/android-pre-downloaded-malware-crypto-wallets

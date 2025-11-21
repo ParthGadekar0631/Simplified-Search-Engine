@@ -1,0 +1,82 @@
+Query: ''
+Empty query. Please enter some search terms.
+No results to display.
+
+============================================================
+
+Query: 'the and is'
+Query contains only stopwords. Please use more specific terms.
+No results to display.
+
+============================================================
+
+Query: 'nonexistentterm'
+Term 'nonexistentterm' not found in any document.
+No results to display.
+
+============================================================
+
+Query: 'threats'
+
+Found 6 matching documents:
+--------------------------------------------------
+1. apple-zero-days-sophisticated-attacks.html (Relevance score: 9)
+   URL: https://www.darkreading.com/vulnerabilities-threats/apple-zero-days-sophisticated-attacks
+2. android-pre-downloaded-malware-crypto-wallets.html (Relevance score: 6)
+   URL: https://www.darkreading.com/threat-intelligence/android-pre-downloaded-malware-crypto-wallets
+3. cisa-alleged-oracle-cloud-breach.html (Relevance score: 6)
+   URL: https://www.darkreading.com/cloud-security/cisa-alleged-oracle-cloud-breach
+4. multiple-group-exploiting-ntlm-flaw.html (Relevance score: 5)
+   URL: https://www.darkreading.com/cyberattacks-data-breaches/multiple-group-exploiting-ntlm-flaw
+5. cve-program-cuts-cyber-sector.html (Relevance score: 4)
+   URL: https://www.darkreading.com/vulnerabilities-threats/cve-program-cuts-cyber-sector
+6. trump-chris-krebs-resigns-sentinelone.html (Relevance score: 4)
+   URL: https://www.darkreading.com/cybersecurity-operations/trump-chris-krebs-resigns-sentinelone
+--------------------------------------------------
+
+============================================================
+
+Query: 'cloud security'
+
+Found 6 matching documents:
+--------------------------------------------------
+1. trump-chris-krebs-resigns-sentinelone.html (Relevance score: 25)
+   URL: https://www.darkreading.com/cybersecurity-operations/trump-chris-krebs-resigns-sentinelone
+2. cisa-alleged-oracle-cloud-breach.html (Relevance score: 23)
+   URL: https://www.darkreading.com/cloud-security/cisa-alleged-oracle-cloud-breach
+3. apple-zero-days-sophisticated-attacks.html (Relevance score: 19)
+   URL: https://www.darkreading.com/vulnerabilities-threats/apple-zero-days-sophisticated-attacks
+4. android-pre-downloaded-malware-crypto-wallets.html (Relevance score: 16)
+   URL: https://www.darkreading.com/threat-intelligence/android-pre-downloaded-malware-crypto-wallets
+5. multiple-group-exploiting-ntlm-flaw.html (Relevance score: 15)
+   URL: https://www.darkreading.com/cyberattacks-data-breaches/multiple-group-exploiting-ntlm-flaw
+6. cve-program-cuts-cyber-sector.html (Relevance score: 15)
+   URL: https://www.darkreading.com/vulnerabilities-threats/cve-program-cuts-cyber-sector
+--------------------------------------------------
+
+============================================================
+
+Query: 'cyber attack'
+
+Found 3 matching documents:
+--------------------------------------------------
+1. apple-zero-days-sophisticated-attacks.html (Relevance score: 13)
+   URL: https://www.darkreading.com/vulnerabilities-threats/apple-zero-days-sophisticated-attacks
+2. cve-program-cuts-cyber-sector.html (Relevance score: 12)
+   URL: https://www.darkreading.com/vulnerabilities-threats/cve-program-cuts-cyber-sector
+3. multiple-group-exploiting-ntlm-flaw.html (Relevance score: 8)
+   URL: https://www.darkreading.com/cyberattacks-data-breaches/multiple-group-exploiting-ntlm-flaw
+--------------------------------------------------
+
+============================================================
+
+Query: 'malware crypto'
+
+Found 1 matching documents:
+--------------------------------------------------
+1. android-pre-downloaded-malware-crypto-wallets.html (Relevance score: 20)
+   URL: https://www.darkreading.com/threat-intelligence/android-pre-downloaded-malware-crypto-wallets
+--------------------------------------------------
+
+============================================================
+
