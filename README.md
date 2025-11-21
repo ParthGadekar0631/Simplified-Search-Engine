@@ -104,10 +104,10 @@ exit
 Query: 'cloud security'
 
 Found 6 matching documents:
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 1. trump-chris-krebs-resigns-sentinelone.html (Relevance score: 25)
    URL: https://www.darkreading.com/cybersecurity-operations/trump-chris-krebs-resigns-sentinelone
-...
+----------------------------------------------------------------------------------------------------
 ```
 
 ## 🎯 Future Improvements
