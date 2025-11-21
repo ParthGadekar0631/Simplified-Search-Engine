@@ -50,26 +50,65 @@ project_folder/
 - Removes stopwords and single-character words.
 
 2. Index Construction
-Builds an inverted index
+- Builds an inverted index
 → term → set(documents)
-Builds a term frequency map
+- Builds a term frequency map
 → term → Counter({doc: count})
 
 3. Searching
-Processes user queries similarly (tokenize + stopword removal).
-Performs AND semantics:
-Only documents containing all query terms are returned.
-Ranks results using total term frequency across query terms.
+- Processes user queries similarly (tokenize + stopword removal).
+- Performs AND semantics:
+- Only documents containing all query terms are returned.
+- Ranks results using total term frequency across query terms.
 
 4. Output
 
-Each result includes:
-Document name
-Relevance score
-Original source URL (from input.txt)
+- Each result includes:
+- Document name
+- Relevance score
+- Original source URL (from input.txt)
 
+## ▶️ How to Run the Project
+### 🧪 Test Mode (Generates output.txt with boundary conditions)
 
+This mode runs several predefined test queries:
+```bash
+python search_engine.py --test
+```
+This produces a file named output.txt with results for:
 
+- Empty query
+- Stopword-only query
+- Non-existent term
+- Valid single-term and multi-term queries
+
+## 💬 Interactive Mode (User can enter any query)
+```bash
+python search_engine.py
+```
+Then type queries such as:
+```bash
+cloud security
+malware crypto
+cyber attack
+```
+To exit:
+```bash
+exit
+```
+
+## 📌 Example Output
+
+(Full output included in output.txt)
+```bash
+Query: 'cloud security'
+
+Found 6 matching documents:
+--------------------------------------------------
+1. trump-chris-krebs-resigns-sentinelone.html (Relevance score: 25)
+   URL: https://www.darkreading.com/cybersecurity-operations/trump-chris-krebs-resigns-sentinelone
+...
+```
 
 ## 🎯 Future Improvements
 
